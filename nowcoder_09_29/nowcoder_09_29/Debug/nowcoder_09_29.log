@@ -1,0 +1,4 @@
+﻿  09_29.c
+D:\c语言\repository\bit\nowcoder_09_29\nowcoder_09_29\09_29.c(194,19): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+D:\c语言\repository\bit\nowcoder_09_29\nowcoder_09_29\09_29.c(201,19): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+  nowcoder_09_29.vcxproj -> D:\c语言\repository\bit\nowcoder_09_29\Debug\nowcoder_09_29.exe

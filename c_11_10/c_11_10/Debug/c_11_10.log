@@ -1,0 +1,7 @@
+﻿  11_10.c
+D:\c语言\repository\bit\c_11_10\c_11_10\11_10.c(6,21): error C2065: “NULL”: 未声明的标识符
+D:\c语言\repository\bit\c_11_10\c_11_10\11_10.c(6,21): warning C4047: “==”:“TreeNode *”与“int”的间接级别不同
+D:\c语言\repository\bit\c_11_10\c_11_10\11_10.c(8,36): error C2037: “left”的左侧部分指定未定义的结构/联合“TreeNode”
+D:\c语言\repository\bit\c_11_10\c_11_10\11_10.c(8,29): error C2198: “maxDepth”: 用于调用的参数太少
+D:\c语言\repository\bit\c_11_10\c_11_10\11_10.c(9,37): error C2037: “right”的左侧部分指定未定义的结构/联合“TreeNode”
+D:\c语言\repository\bit\c_11_10\c_11_10\11_10.c(9,30): error C2198: “maxDepth”: 用于调用的参数太少

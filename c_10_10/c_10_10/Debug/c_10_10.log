@@ -1,0 +1,3 @@
+﻿  10_10.c
+D:\c语言\git\bit_practice\c_10_10\c_10_10\10_10.c(64): warning C4172: 返回局部变量或临时变量的地址: ret
+  c_10_10.vcxproj -> D:\c语言\git\bit_practice\c_10_10\Debug\c_10_10.exe

@@ -1,0 +1,5 @@
+﻿  1021-1025.c
+D:\c语言\repository\pat_basic\1021-1025\1021-1025\1021-1025.c(128,6): warning C4013: “gets”未定义；假设外部返回 int
+D:\c语言\repository\pat_basic\1021-1025\1021-1025\1021-1025.c(168,16): warning C4013: “strlen”未定义；假设外部返回 int
+D:\c语言\repository\pat_basic\1021-1025\1021-1025\1021-1025.c(126,6): warning C4101: “ans”: 未引用的局部变量
+  1021-1025.vcxproj -> D:\c语言\repository\pat_basic\1021-1025\Debug\1021-1025.exe

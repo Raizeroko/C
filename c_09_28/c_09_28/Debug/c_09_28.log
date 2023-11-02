@@ -1,0 +1,4 @@
+﻿  09_28.c
+D:\c语言\repository\bit\c_09_28\c_09_28\09_28.c(344,5): error C2084: 函数“int main()”已有主体
+D:\c语言\repository\bit\c_09_28\c_09_28\09_28.c(321): message : 参见“main”的前一个定义
+D:\c语言\repository\bit\c_09_28\c_09_28\09_28.c(497,5): error C2143: 语法错误: 缺少“;”(在“{”的前面)
